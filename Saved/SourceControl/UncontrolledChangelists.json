@@ -6,14 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Data/gameplayData.uasset",
 				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/projectileParent.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/UI/bp_mainMenu.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/MainMenu/bp_mainMenuPlayerController.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Maps/MainMenu.umap",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/enemy_1.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Textures/glowMat.uasset",
-				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/playerProjectile1.uasset"
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/__ExternalActors__/lev1/3/WV/1T6G57EIM17V75GVSKYY1I.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/bp_player.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/projectilePlayer01Fire.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/projectileEnemy01Fire.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/projectilePlayer02PlexFire.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/bp_gamemode.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Data/DataTable.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Blueprints/gameplayStruct.uasset",
+				"C:/Users/santi/Documents/Unreal Projects/NephilimSquadron/NS/Content/Sequences/zigzag.uasset"
 			]
 		}
 	]
